@@ -1,0 +1,2 @@
+# SMO-CSSVM
+This project is an MATLAB implementation of SMO algorithm for CSSVM.                                                                                                     The CSSVM is different to traditional 2C-SVM. CSSVM guarantees consistency with the cost-sensitive Bayes risk based on cost sensitive hinge loss, has a better generalization accuracy than 2C-SVM.  CSSVM is detailedly descripted in the reference "H. Masnadi-Shirazi and N. Vasconcelos, “Risk minimization, probability elicitation, and cost-sensitive svms.” in ICML, 2010, pp. 759–766."
